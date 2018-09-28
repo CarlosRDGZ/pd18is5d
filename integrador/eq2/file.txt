@@ -1,0 +1,15 @@
+se meten al link
+presionan fork (parte superior derecha)
+copian el link que se genera
+
+(Termial)
+git clone url
+
+git config --global user.name "Mona Lisa"
+git config --global user.email "cr@mail.com"
+
+// crean carpetas archivos o lo que sea
+
+git add .
+git commit -m "comentario"
+git push origin master
